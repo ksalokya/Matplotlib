@@ -202,3 +202,5 @@ plt.savefig('foo.png')
 ![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_19_0.png)
     
 
+## Tutorial
+[Matplotlib Tutorial](https://youtu.be/VFsRLjSc8GA)
