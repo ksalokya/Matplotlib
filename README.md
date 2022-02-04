@@ -22,7 +22,7 @@ plt.show()
 
 
     
-![png](output_3_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_3_0.png)
     
 
 
@@ -40,7 +40,7 @@ plt.show()
 
 
     
-![png](output_5_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_5_0.png)
     
 
 
@@ -65,7 +65,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_7_0.png)
     
 
 
@@ -90,7 +90,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_9_0.png)
     
 
 
@@ -115,7 +115,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_11_0.png)
     
 
 
@@ -140,7 +140,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_13_0.png)
     
 
 
@@ -158,7 +158,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_15_0.png)
     
 
 
@@ -182,7 +182,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_17_0.png)
     
 
 
@@ -199,6 +199,6 @@ plt.savefig('foo.png')
 
 
     
-![png](output_19_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_19_0.png)
     
 
