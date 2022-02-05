@@ -186,6 +186,36 @@ plt.show()
     
 
 
+
+# Bar Graphs
+
+
+```python
+plt.bar([0,1,2],[10,20,15])
+plt.show()
+```
+
+
+    
+![png](output_19_0.png)
+    
+
+
+
+```python
+import numpy as np
+x_cord = np.array(np.arange(3))
+plt.bar(x_cord ,[10,20,15],width=0.5)
+plt.bar(x_cord+0.5 ,[20,10,12],width=0.5)
+plt.show()
+```
+
+
+    
+![png](output_20_0.png)
+    
+
+
 # Save Plot
 
 
@@ -199,7 +229,8 @@ plt.savefig('foo.png')
 
 
     
-![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_19_0.png)
+![png](output_22_0.png)
+    
     
 
 ## Tutorial
