@@ -197,7 +197,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_19_0.png)
     
 
 
@@ -212,7 +212,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_20_0.png)
     
 
 
@@ -229,7 +229,7 @@ plt.savefig('foo.png')
 
 
     
-![png](output_22_0.png)
+![png](https://github.com/ksalokya/matplotlib/blob/main/assets/output_22_0.png)
     
     
 
